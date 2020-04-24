@@ -1,3 +1,8 @@
+NOTE -
+To execute the program :
+Use Python IDLE or Jupyter Notebook
+Program made in Python 3.8.1
+
 ##################################################
                 INT404 Project
          Intelligent System for Tourist
@@ -14,9 +19,6 @@ Submitted By :    Amit Kharb      (20)
 Section : K18NZ
 
 ##################################################
-NOTE -
-To execute the program :
-Use Python IDLE or Jupyter Notebook
-Program made in Python 3.8.1
+
 ##################################################
 
