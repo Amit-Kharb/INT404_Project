@@ -280,7 +280,7 @@ def Haunted_Places():
 
 def default():
     print("\n")
-    print("Do you want to run the program again?")
+    print("Do you want to run the program again ?")
     print("Press 0 for No")
     print("Press 1 for Yes")
     d=int(input(""))
