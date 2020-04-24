@@ -1,8 +1,7 @@
 ##################################################
-
-              INT404 Project
-      Intelligent System For Tourists
-
+                INT404 Project
+         Intelligent System for Tourist
+         
 Ques 51 - Intelligent System For Tourists
 It will contain a set of questionnaire which the user has to reply. Based on the answer provided by the user, an intelligent system returns best results.
 
